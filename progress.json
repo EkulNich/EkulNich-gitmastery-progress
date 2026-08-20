@@ -1,0 +1,22 @@
+[
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1787034593.613611,
+    "completed_at": 1787034596.648916,
+    "comments": [
+      "Did not add alice.txt",
+      "Did not add bob.txt",
+      "Did not add joe.txt"
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1787034658.052888,
+    "completed_at": 1787034659.547162,
+    "comments": [
+      "Great work! You have successfully checked in all the actors!"
+    ],
+    "status": "Completed"
+  }
+]
