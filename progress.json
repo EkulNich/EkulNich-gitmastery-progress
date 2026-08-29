@@ -297,5 +297,14 @@
       "Nice work renaming the branch locally and on the remote!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1787976249.496824,
+    "completed_at": 1787976250.806727,
+    "comments": [
+      "You successfully used git init to initialize this folder as a Git repository!"
+    ],
+    "status": "Completed"
   }
 ]
